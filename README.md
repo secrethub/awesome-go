@@ -1755,6 +1755,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [playlyfe](https://github.com/playlyfe/playlyfe-go-sdk) - The Playlyfe Rest API Go SDK.
 * [pushover](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API.
 * [rrdaclient](https://github.com/Omie/rrdaclient) - Go Library to access statdns.com API, which is in turn RRDA API. DNS Queries over HTTP.
+* [secrethub-go](https://github.com/secrethub/secrethub-go) - Go client library for interacting with the SecretHub API.
 * [shopify](https://github.com/rapito/go-shopify) - Go Library to make CRUD request to the Shopify API.
 * [simples3](https://github.com/rhnvrm/simples3) - Simple no frills AWS S3 Library using REST with V4 Signing written in Go.
 * [slack](https://github.com/nlopes/slack) - Slack API in Go.
